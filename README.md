@@ -1,4 +1,4 @@
-#Optimized Collatz Function
+# Optimized Collatz Function
 
 This is a set of collatz function implementations, including a counter to keep track of how many iterations it takes to get to 1.
 
